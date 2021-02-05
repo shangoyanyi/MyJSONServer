@@ -1,13 +1,22 @@
 {
   "profile": {
+    "id": "0911*1*1*1",
+    "nickname": "tanjiro",
     "name": "炭*郎",
     "birthday": "2021/01/31",
     "gender": "M",
-    "dssn": "A1*3*5*7*9"
+    "dssn": "A1*3*5*7*9",
+    "mobile": "0985*7*5*9",
+    "email": "cht@gmail.com"
   },
   "related_users": [
     {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
     {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
     {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"}
-  ]
+  ],
+  "security":{
+    "online_devices":[],
+    "auto_login_devices":[],
+    "keep_login_browsers":[]
+  }
 }
