@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "炭*郎",
+    "birthday": "2021/01/31",
+    "gender": "M",
+    "dssn": "A1*3*5*7*9"
+  },
+  "related_users": [
+    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
+    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
+    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"}
+  }]
 }
