@@ -9,10 +9,10 @@
     "mobile": "0985*7*5*9",
     "email": "cht@gmail.com"
   },
-  "related_users": [
-    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
-    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"},
-    {"sn":"123456", "mobile": "0911*1*1*1","email": "cht123@gmail.com"}
+  "related_accounts": [
+    {"sn":"123456", "device": "0911*1*1*1","uid": "test1@gmail.com"},
+    {"sn":"123456", "device": "0911*1*1*1","uid": "test2@gmail.com"},
+    {"sn":"123456", "device": "0911*1*1*1","uid": "test3@gmail.com"}
   ],
   "security":{
     "online_devices":[],
