@@ -10,11 +10,14 @@
     "email": "cht@gmail.com"
   },
   "all_related_accounts": {
-    "data":[
-    {"sn":"123456", "device": "0911*1*1*1","uid": "test1@gmail.com"},
-    {"sn":"123456", "device": "0911*1*1*1","uid": "test2@gmail.com"},
-    {"sn":"123456", "device": "0911*1*1*1","uid": "test3@gmail.com"}
-  ]},
+    "data": {
+      "allRelatedAccounts": [
+        {"sn":"123456", "device": "0911*1*1*1","uid": "test1@gmail.com"},
+        {"sn":"123456", "device": "0911*1*1*1","uid": "test2@gmail.com"},
+        {"sn":"123456", "device": "0911*1*1*1","uid": "test3@gmail.com"}
+      ]
+    }
+  },
   "security":{
     "online_devices":[],
     "auto_login_devices":[],
