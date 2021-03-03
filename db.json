@@ -12,9 +12,9 @@
   "all_related_accounts": {
     "data": {
       "allRelatedAccounts": [
-        {"sn":"123456", "device": "0911*1*1*1","uid": "test1@gmail.com"},
-        {"sn":"123456", "device": "0911*1*1*1","uid": "test2@gmail.com"},
-        {"sn":"123456", "device": "0911*1*1*1","uid": "test3@gmail.com"}
+        {"sn":"123456", "device": "0911*1*1*1", "dssn": "A123456789", "uid": "test1@gmail.com"},
+        {"sn":"123456", "device": "0911*1*1*1", "dssn": "A123456789", "uid": "test2@gmail.com"},
+        {"sn":"123456", "device": "0911*1*1*1", "dssn": "A123456789", "uid": "test3@gmail.com"}
       ]
     }
   },
